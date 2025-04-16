@@ -1,4 +1,4 @@
-#H1 Gym Management System
+# Gym Management System
 A web-based application designed to streamline the management of gym operations, including member registration, attendance tracking, and payment processing.
 
 __🛠️ Technologies Used__
